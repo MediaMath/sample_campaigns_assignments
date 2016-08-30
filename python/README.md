@@ -1,6 +1,6 @@
 # Objective
 
-Fill in the NumberFormat/numberformat.md file such that all the tests that run on `make test` pass.
+Fill in the NumberFormat/numberformat.py file such that all the tests that run on `make test` pass.
 
 # Building the project
 
